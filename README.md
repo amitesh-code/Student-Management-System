@@ -176,7 +176,7 @@ While building this project, I practiced:
 
 ## 👨‍💻 Author
 
-**Ray Amitesh Ranjan**
+**Amitesh**
 
 GitHub: [https://github.com/amitesh-code](https://github.com/amitesh-code)
 
